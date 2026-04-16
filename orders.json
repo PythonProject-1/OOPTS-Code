@@ -1,0 +1,70 @@
+[
+    {
+        "order_id": "4482c6b6",
+        "customer_name": "Ram",
+        "items": [
+            "Mouse",
+            " Keyboard"
+        ],
+        "status": "Shipped"
+    },
+    {
+        "order_id": "7bd9faa6",
+        "customer_name": "srinu",
+        "items": [
+            "Mouse",
+            " Laptop"
+        ],
+        "status": "Placed"
+    },
+    {
+        "order_id": "7d233946",
+        "customer_name": "Sam",
+        "items": [
+            "Mouse",
+            " keyboard"
+        ],
+        "status": "Delivered"
+    },
+    {
+        "order_id": "f327fd88",
+        "customer_name": "tom",
+        "items": [
+            "Laptop"
+        ],
+        "status": "Delivered"
+    },
+    {
+        "order_id": "58feca14",
+        "customer_name": "Jerry",
+        "items": [
+            "Desktop"
+        ],
+        "status": "Placed"
+    },
+    {
+        "order_id": "3aef642d",
+        "customer_name": "Ram",
+        "items": [
+            "Mouse",
+            " Keyboard"
+        ],
+        "status": "Placed"
+    },
+    {
+        "order_id": "918ea9c7",
+        "customer_name": "Sam",
+        "items": [
+            "Laptop"
+        ],
+        "status": "Placed"
+    },
+    {
+        "order_id": "78eda216",
+        "customer_name": "Tom",
+        "items": [
+            "Desktop"
+        ],
+        "status": "Delivered"
+    }
+]
